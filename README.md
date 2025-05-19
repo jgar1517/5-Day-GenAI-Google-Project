@@ -19,11 +19,11 @@ Turn insights into action. Watt-Save uses Gemini to analyze personal energy data
 
 ## Notebook Link
 
-[üîóKaggle](https://www.kaggle.com/code/jimkwikx/watt-saver-personalized-energy)
+[Kaggle](https://www.kaggle.com/code/jimkwikx/watt-saver-personalized-energy)
 
-[üîóGithub](/Notebook/watt-saver-personalized-energy-jim.ipynb) 
+[Github](/Notebook/watt-saver-personalized-energy-jim.ipynb) 
 
-[üîóColab](https://colab.research.google.com/drive/1_r5exsc9STtdv8GOyd5xIvDEgD5Q04iW?usp=sharing)   
+[Colab](https://colab.research.google.com/drive/1_r5exsc9STtdv8GOyd5xIvDEgD5Q04iW?usp=sharing)   
 
 ## Youtube Video
-[üîóYoutube Video](https://www.youtube.com/watch?v=xchAEGdZtQw)
+[Youtube Video](https://www.youtube.com/watch?v=xchAEGdZtQw)

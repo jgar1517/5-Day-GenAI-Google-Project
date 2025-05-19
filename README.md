@@ -8,14 +8,14 @@ Participants collaborated on applying Generative AI to the problem of understand
 
 ---
 
-##Project Overview
+## Project Overview
 
 Turn insights into action. Watt-Save uses Gemini to analyze personal energy data and suggest behavior, variable vs fixed rate, device, and time-shifting optimizations.
 
 ---
 
 ## Detailed Implementation
-[üîó Blog Post](https://jimkw1kx.github.io/blog/2015/04/20/kaggle.html)
+[Blog Post](https://jimkw1kx.github.io/blog/2015/04/20/kaggle.html)
 
 ## Notebook Link
 
